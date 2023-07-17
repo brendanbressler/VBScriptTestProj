@@ -1,7 +1,7 @@
 ' Create an ADO connection to the SQL Server
 Dim conn
 Set conn = CreateObject("ADODB.Connection")
-conn.ConnectionString = "Provider=SQLOLEDB;Data Source=YourServerName;Initial Catalog=YourDatabaseName;User ID=YourUsername;Password=YourPassword;"
+conn.ConnectionString = "Provider=SQLOLEDB;Data Source=LAPTOP-NBAKBDVU;Initial Catalog=testvbsproject;User ID=sweet; Password=Laserguy1;"
 conn.Open
 
 ' Menu loop
