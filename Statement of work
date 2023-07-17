@@ -1,0 +1,58 @@
+Project Title: Database Management System using VBS and SQL Server Express
+
+Project Overview:
+The objective of this project is to develop a Database Management System using SQL Server Express and VBScript (VBS) to maintain a database of customers, contacts, addresses, and orders. The system will provide a menu-driven interface for users to perform various operations such as adding customers, contacts, addresses, deleting records, and managing orders.
+
+Deliverables:
+
+Installation instructions for SQL Server Express.
+SQL script file (.sql) to create the necessary database tables.
+VBS script file (.vbs) that implements the menu-driven interface and handles the database operations.
+Documentation and user guide explaining how to use the system.
+Scope of Work:
+The scope of work includes the following tasks:
+a. Installation:
+
+Provide detailed instructions for installing SQL Server Express.
+b. Database Design:
+
+Design the database schema with tables for customers, contacts, addresses, and orders.
+Establish appropriate one-to-many relationships between the tables.
+c. SQL Script Creation:
+
+Create a .sql file that contains SQL statements to create the required database tables based on the schema design.
+d. VBS Script Development:
+
+Develop a VBS script using available online resources that implements the menu-driven interface.
+Handle user inputs and outputs to perform various database operations such as adding customers, contacts, addresses, and managing orders.
+e. Testing and Debugging:
+
+Perform thorough testing to ensure the system functions correctly, handles errors gracefully, and maintains data integrity.
+Debug any issues encountered during the testing phase.
+f. Documentation:
+
+Prepare comprehensive documentation that includes installation instructions, system architecture, usage guidelines, and troubleshooting tips.
+Assumptions and Dependencies:
+
+The user will have a Windows machine compatible with SQL Server Express.
+The user will have basic knowledge of SQL Server Express and VBS scripting.
+The required resources for SQL Server Express and VBS scripting will be available.
+Any specific hardware or software dependencies will be communicated and addressed prior to the project initiation.
+Timeline:
+
+The project timeline is estimated to be [insert estimated duration] from the project initiation date.
+The exact timeline will be determined after further discussion and understanding of the project requirements.
+Total Dollar Amount:
+
+The total cost for the project will be determined based on the estimated effort, duration, and complexity of the project.
+A detailed cost estimate will be provided after a thorough analysis of the project requirements.
+Project Management and Communication:
+
+Regular communication will be maintained through [communication channels such as email, meetings, etc.] to discuss progress, address concerns, and provide updates on the project.
+Any changes to the project scope or timeline will be discussed and agreed upon by both parties.
+Note: This Statement of Work is a high-level description of the project. Detailed discussions and planning will be carried out to refine the requirements, scope, and deliverables before the project commences.
+
+Please feel free to contact us for any clarifications or further discussions.
+
+Company Name
+[7/15/2023]
